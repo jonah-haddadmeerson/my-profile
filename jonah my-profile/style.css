@@ -1,4 +1,4 @@
-/* Colors and fonts */
+
 body {
   background: #0D0D0D;
   color: #E63946;
@@ -35,7 +35,7 @@ a:hover {
   color: #F1FAEE;
 }
 
-/* Container adjustments */
+
 .container {
   width: 700px;
   margin: 40px auto;
@@ -59,7 +59,7 @@ a:hover {
   }
 }
 
-/* Card design */
+
 .card-white {
   background-color: #1A1A1A;
   padding: 40px;
@@ -75,7 +75,7 @@ a:hover {
   border: 2px solid #E63946;
 }
 
-/* Button design */
+
 .btn-blue {
   background-color: #E63946;
   color: #F1FAEE;
@@ -89,7 +89,7 @@ a:hover {
   color: #0D0D0D;
 }
 
-/* List design */
+
 .list-inline {
   list-style: none;
   padding-left: 0px;
@@ -110,7 +110,7 @@ a:hover {
   color: #F1FAEE;
 }
 
-/* Introduction text adjustments */
+
 #introduction p {
   margin-bottom: 40px;
   color: #F1FAEE;
